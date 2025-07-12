@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infertia</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Infertia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What we do</title>
-      <link>//localhost:1313/post/readme/</link>
+      <link>http://localhost:1313/post/readme/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/readme/</guid>
+      <guid>http://localhost:1313/post/readme/</guid>
       <description>&lt;h4 id=&#34;we-compute&#34;&gt;We compute&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Relevant signals of real-world dynamic systems.&lt;/li&gt;&#xA;&lt;li&gt;Using sensor data.&lt;/li&gt;&#xA;&lt;li&gt;Efficiently implemented on YOUR target.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;typical-challenges-we-solve&#34;&gt;Typical challenges we solve&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Complex relation between the signals and the system.&lt;/li&gt;&#xA;&lt;li&gt;Low-latency output&lt;/li&gt;&#xA;&lt;li&gt;Complex system dynamics.&lt;/li&gt;&#xA;&lt;li&gt;Failure detection.&lt;/li&gt;&#xA;&lt;li&gt;Dealing with slowly changing systems, adatp to wear and tear.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;signals-and-sensors-include&#34;&gt;Signals and sensors include&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Inertial sensing&lt;/li&gt;&#xA;&lt;li&gt;Gas sensing (e.g. metal-oxide sensors)&lt;/li&gt;&#xA;&lt;li&gt;LVDT&amp;rsquo;s&lt;/li&gt;&#xA;&lt;li&gt;Signals of opportunity, such as a driving voltage&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;application-domains-include&#34;&gt;Application domains include&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tracking of robotic links&lt;/li&gt;&#xA;&lt;li&gt;Navigation&lt;/li&gt;&#xA;&lt;li&gt;Air quality sensing&lt;/li&gt;&#xA;&lt;li&gt;Human motion tracking&lt;/li&gt;&#xA;&lt;li&gt;Physiological systems&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;Passionate about extracting information from sensors and their applications.&lt;/p&gt;&#xA;&lt;p&gt;I have a proven record of creating industry-changing solutions in the field of mems-inertial navigation, human movement tracking and gas sensing.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/notes/</link>
+      <link>http://localhost:1313/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/notes/</guid>
+      <guid>http://localhost:1313/notes/</guid>
       <description>&lt;p&gt;Intuition on why the Jacobian relates to the covariance matrix: &lt;a href=&#34;https://www.sherrytowers.com/mle_introduction.pdf&#34;&gt;Maximum likelihood&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/search/placeholder/</link>
+      <link>http://localhost:1313/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/search/placeholder/</guid>
+      <guid>http://localhost:1313/search/placeholder/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts Archive</title>
-      <link>//localhost:1313/archive/</link>
+      <link>http://localhost:1313/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/archive/</guid>
+      <guid>http://localhost:1313/archive/</guid>
       <description></description>
     </item>
   </channel>
