@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Navigation on Infertia</title>
-    <link>http://localhost:1313/tags/navigation/</link>
+    <link>//localhost:1313/tags/navigation/</link>
     <description>Recent content in Navigation on Infertia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/navigation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/navigation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;Passionate about extracting information from sensors and their applications.&lt;/p&gt;&#xA;&lt;p&gt;I have a proven record of creating industry-changing solutions in the field of mems-inertial navigation, human movement tracking and gas sensing.&lt;/p&gt;</description>
     </item>
   </channel>
