@@ -17,9 +17,9 @@
     
 
     
-    <meta name="title" content="" />
-    <meta property="og:title" content="" />
-    <meta property="twitter:title" content="" />
+    <meta name="title" content="Why linkForge" />
+    <meta property="og:title" content="Why linkForge" />
+    <meta property="twitter:title" content="Why linkForge" />
     
 
     
@@ -36,9 +36,9 @@
     <meta name="keyword"  content="sensor fusion, inerital sensing, gas sensing, inference, maximum likelihood, robotics">
     <link rel="shortcut icon" href="/img/favicon.ico">
 
-    <title>sensor fusion</title>
+    <title>Why linkForge | sensor fusion</title>
 
-    <link rel="canonical" href="/search/placeholder/">
+    <link rel="canonical" href="/post/motive/">
 
     
     
@@ -181,7 +181,32 @@
             col-xs-12
             post-container">
             
-                
+                <h3 id="need-for-low-latency-accurate-3d-pose-tracking">Need for low-latency, accurate 3D pose tracking.</h3>
+<p>Outdoor robots such as contruction - and agricultural robots are designed for increasing autonomy and low maintenance costs. For inceased autonoumous control, the exact positions of the links need to be tracked and fed to the controlled with low latency.</p>
+<p>The current solutions based on LVDT signals and rotational encoders do not always meet required performance. linkForge obatins the  needed  performance by combing existing sensors such as wheeel encoders, then  adding inertial measurement units (IMU&rsquo;s). Signals are combined using well known sensor fusion techniques to stream the poses of each link to the controller.</p>
+<p>A unique feature of this approach is that not only the link positions are fed to the controlled with low latency, but also the reduncancy in the system is used to continuously track the slowly chaning robot: plastic bending, chaning sensor alingment, change in tyres.</p>
+<h3 id="usps">USP&rsquo;s</h3>
+<ul>
+<li>Low latency 3D movement in a coordinates of choice. For a CAN bus, the latency will be several ms. For strict low-latency requirements in the ms range, use etherCAT.</li>
+<li>Automatically adapt to the machine: autocalibration of sensor alignment, change in joints, changes in sensors.</li>
+<li>Easy to set-up.</li>
+<li>Automatic fault detection.</li>
+<li>Test the performance in the design phase.</li>
+</ul>
+<h3 id="workflow">Workflow</h3>
+<ul>
+<li>FW is generated, based on a CAD model.</li>
+<li>FW is uploaded to the linkforge tracker.</li>
+<li>Sensors and linkforge trackes are mounted on the robot and powered on.</li>
+<li>Read out link poses over CAN bus.</li>
+</ul>
+<h3 id="requirements">Requirements.</h3>
+<ul>
+<li>CAD model</li>
+<li>Robot with</li>
+<li>IMU&rsquo;s, one of which has FW uploaded to it.</li>
+</ul>
+
             
              
             
